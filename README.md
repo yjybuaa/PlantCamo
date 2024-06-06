@@ -17,7 +17,7 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 
 
 ## Download the Dataset and Results
-[PlantCamo](https://pan.baidu.com/s/1sLFavm2LjVaEo_5uAlsIDQ)(Code: nm46)
+[PlantCamo-full](https://pan.baidu.com/s/1sLFavm2LjVaEo_5uAlsIDQ)(Code: nm46)
 
 
 
