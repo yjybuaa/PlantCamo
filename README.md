@@ -21,6 +21,7 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 
 [PlantCamo-Train-and-Test](https://pan.baidu.com/s/1vdR-kj63qvsT3M4-wkgMoQ)(Code: hq87)
 
+[Results](https://pan.baidu.com/s/14W4oH2UX2MlRJ2H5ewE1yA)(Code: 6o76) 
 
 
 ## Citation
