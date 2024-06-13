@@ -26,10 +26,11 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 >## Usage
 >
 >>The training and testing experiments are conducted using PyTorch with a single RTX 3090 GPU of 24 GB Memory.
+>>Download `pvt_v2_b2.pth` at [here](https://pan.baidu.com/s/11dSkyGKb71lT_7HxSCiIjw) (Code: gy87), and put it into `.\pretrained_pvt`
 
 ## Train
 
-Download `pvt_v2_b2.pth` at [here](https://pan.baidu.com/s/11dSkyGKb71lT_7HxSCiIjw) (Code: gy87), and put it into `.\pretrained_pvt`
+Download `PlantCamo-Train-and-Test` at [here](https://pan.baidu.com/s/1vdR-kj63qvsT3M4-wkgMoQ)(Code: hq87), and put it into `.\datasets`
 
 ## Test
 
