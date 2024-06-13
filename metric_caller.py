@@ -54,7 +54,7 @@ class CalTotalMetric(object):
 if __name__ == '__main__':
     cal_total_seg_metrics = CalTotalMetric()
 
-    img_path = './results1/PlantCAMO1250/PlantCAMO1250/'
+    img_path = './results/PlantCAMO1250/PlantCAMO1250/'
     mask_path = './datasets/PlantCAMO1250/test/gt/'
 
     img_list = os.listdir(img_path)
@@ -70,5 +70,5 @@ if __name__ == '__main__':
 
     fixed_seg_results = cal_total_seg_metrics.get_results()
     print(fixed_seg_results)
-    # with open("./results0/PlantCAMO1250/results.txt","a")as f :
-    #     f.write(str(fixed_seg_results)+'\n')
+    with open("./results/PlantCAMO1250/results.txt","a")as f :
+        f.write(str(fixed_seg_results)+'\n')
