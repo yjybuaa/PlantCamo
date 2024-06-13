@@ -23,7 +23,8 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 
 [Results](https://pan.baidu.com/s/14W4oH2UX2MlRJ2H5ewE1yA)(Code: 6o76) 
 
-## Pre-trained model
+## Train
+### Pre-trained model
 [Net_epoch_best.pth](https://pan.baidu.com/s/1eZpqxx5b5Y_V9klLQxf5WQ)(Code: b98f)
 
 
