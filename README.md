@@ -39,7 +39,7 @@ Download trained model `Net_epoch_best.pth` at [here](https://pan.baidu.com/s/1e
 
 ## Evaluation
 
-You can find it in [https://github.com/lartpang/PySODMetrics](https://github.com/lartpang/PySODMetrics)
+You can find it in [https://github.com/lartpang/PySODMetrics](https://github.com/lartpang/PySODMetrics) or you can run the `metric_caller.py`
 
 ## Citation
 We appreciate your support of our work!
