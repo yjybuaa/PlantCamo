@@ -37,7 +37,9 @@ Download `PlantCamo-Train-and-Test` at [here](https://pan.baidu.com/s/1vdR-kj63q
 
 Download trained model `Net_epoch_best.pth` at [here](https://pan.baidu.com/s/1eZpqxx5b5Y_V9klLQxf5WQ)(Code: b98f), and put it into `.\ckpt`
 
+## Evaluation
 
+You can find it in [https://github.com/lartpang/PySODMetrics](https://github.com/lartpang/PySODMetrics)
 
 ## Citation
 We appreciate your support of our work!
