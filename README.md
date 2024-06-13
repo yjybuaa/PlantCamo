@@ -25,10 +25,11 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 
 ## Train
 
-Download `pvt_v2_b2.pth` at [here](https://pan.baidu.com/s/11dSkyGKb71lT_7HxSCiIjw) (Code: gy87),and put it into `./pretrained_pvt`
+Download `pvt_v2_b2.pth` at [here](https://pan.baidu.com/s/11dSkyGKb71lT_7HxSCiIjw) (Code: gy87), and put it into `.\pretrained_pvt`
 
-### Pre-trained model
-[Net_epoch_best.pth](https://pan.baidu.com/s/1eZpqxx5b5Y_V9klLQxf5WQ)(Code: b98f)
+## Test
+
+Download trained model `Net_epoch_best.pth` at [here](https://pan.baidu.com/s/1eZpqxx5b5Y_V9klLQxf5WQ)(Code: b98f), and put it into `.\ckpt`
 
 
 
