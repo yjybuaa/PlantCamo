@@ -31,7 +31,7 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 
 ## Train
 
-Download `PlantCamo-Train-and-Test` at [here](https://pan.baidu.com/s/1vdR-kj63qvsT3M4-wkgMoQ)(Code: hq87), and put it into `.\datasets`
+Download `PlantCamo-Train-and-Test` at [here](https://pan.baidu.com/s/1vdR-kj63qvsT3M4-wkgMoQ)(Code: hq87) or [Google drive link](https://drive.google.com/file/d/1eMvSbNJJbh6BYea-3ZktzDReHFujsb1_/view?usp=drive_link), and put it into `.\datasets`
 
 ## Test
 
