@@ -17,7 +17,7 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 
 
 ## Download the Dataset and Results
-[PlantCamo-full](https://pan.baidu.com/s/1sLFavm2LjVaEo_5uAlsIDQ)(Code: nm46)  [Google drive link](https://drive.google.com/file/d/1-HsLXjzR-27VyARum071h4JF_RprOKu_/view?usp=sharing)
+[PlantCamo-full](https://pan.baidu.com/s/1yVMPrQRKCQ0Ft3HuGKykbg)(Code: wnyc)  [Google drive link](https://drive.google.com/file/d/1-HsLXjzR-27VyARum071h4JF_RprOKu_/view?usp=sharing)
 
 [PlantCamo-Train-and-Test](https://pan.baidu.com/s/1vdR-kj63qvsT3M4-wkgMoQ)(Code: hq87)   [Google drive link](https://drive.google.com/file/d/1eMvSbNJJbh6BYea-3ZktzDReHFujsb1_/view?usp=drive_link)
 
