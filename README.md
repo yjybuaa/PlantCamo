@@ -27,7 +27,7 @@ https://github.com/yjybuaa/PlantCamo/assets/39208339/766645f1-6951-4cf0-baf1-8a5
 >
 >>The training and testing experiments are conducted using PyTorch with a single RTX 3090 GPU of 24 GB Memory.
 >>
->>Download `pvt_v2_b2.pth` at [here](https://pan.baidu.com/s/11dSkyGKb71lT_7HxSCiIjw) (Code: gy87), and put it into `.\pretrained_pvt`
+>>Download `pvt_v2_b2.pth` at [here](https://pan.baidu.com/s/11dSkyGKb71lT_7HxSCiIjw) (Code: gy87) or [Google drive link](https://drive.google.com/file/d/1-AFs2dP3p0OMw3Vbnf0tMsgkYbpT6C23/view?usp=sharing), and put it into `.\pretrained_pvt`
 
 ## Train
 
@@ -35,7 +35,7 @@ Download `PlantCamo-Train-and-Test` at [here](https://pan.baidu.com/s/1vdR-kj63q
 
 ## Test
 
-Download trained model `Net_epoch_best.pth` at [here](https://pan.baidu.com/s/1eZpqxx5b5Y_V9klLQxf5WQ)(Code: b98f), and put it into `.\ckpt`
+Download trained model `Net_epoch_best.pth` at [here](https://pan.baidu.com/s/1eZpqxx5b5Y_V9klLQxf5WQ)(Code: b98f) or [Google drive link](https://drive.google.com/file/d/1-GP18g79xszyAnvZ1ZzTXzhFoH7gzYed/view?usp=sharing), and put it into `.\ckpt`
 
 ## Evaluation
 
