@@ -1,8 +1,8 @@
 ![plantcamo](https://github.com/yjybuaa/PlantCamo/assets/39208339/9b6888db-cd9d-46f0-b851-d40726788cf4)
 
 <div align=center>
-<a src="https://img.shields.io/badge/%F0%9F%93%96-Arxiv_xxxx.xxxxx-red.svg?style=flat-square" href="https://arxiv.org/abs/xxxx.xxxxx">
-<img src="https://img.shields.io/badge/%F0%9F%93%96-Arxiv_xxxx.xxxxx-red.svg?style=flat-square">
+<a src="https://img.shields.io/badge/%F0%9F%93%96-Arxiv_2410.17598-red.svg?style=flat-square" href="https://arxiv.org/abs/2410.17598">
+<img src="https://img.shields.io/badge/%F0%9F%93%96-Arxiv_2410.17598-red.svg?style=flat-square">
 </a>
 <a src="https://img.shields.io/badge/%F0%9F%9A%80-SUSTech_VIP_Lab-ed6c00.svg?style=flat-square" href="https://zhengfenglab.com/">
 <img src="https://img.shields.io/badge/%F0%9F%9A%80-SUSTech_VIP_Lab-ed6c00.svg?style=flat-square">
@@ -44,3 +44,13 @@ You can find it in [https://github.com/lartpang/PySODMetrics](https://github.com
 ## Citation
 We appreciate your support of our work!
 ```bibtex
+@misc{yang2024plantcamoplantcamouflagedetection,
+      title={PlantCamo: Plant Camouflage Detection}, 
+      author={Jinyu Yang and Qingwei Wang and Feng Zheng and Peng Chen and Aleš Leonardis and Deng-Ping Fan},
+      year={2024},
+      eprint={2410.17598},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.17598}, 
+}
+```
