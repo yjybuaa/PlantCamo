@@ -47,7 +47,7 @@ We appreciate your support of our work!
 @article{plantcamo,
       title={PlantCamo: Plant Camouflage Detection}, 
       author={Jinyu Yang and Qingwei Wang and Feng Zheng and Peng Chen and Aleš Leonardis and Deng-Ping Fan},
-      journal={CAAI AIR},
+      journal={CAAI Artificial Intelligence Research (AIR)},
       year={2025}
 }
 ```
