@@ -44,13 +44,10 @@ You can find it in [https://github.com/lartpang/PySODMetrics](https://github.com
 ## Citation
 We appreciate your support of our work!
 ```bibtex
-@misc{yang2024plantcamoplantcamouflagedetection,
+@article{plantcamo,
       title={PlantCamo: Plant Camouflage Detection}, 
       author={Jinyu Yang and Qingwei Wang and Feng Zheng and Peng Chen and Aleš Leonardis and Deng-Ping Fan},
-      year={2024},
-      eprint={2410.17598},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.17598}, 
+      journal={CAAI AIR},
+      year={2025}
 }
 ```
